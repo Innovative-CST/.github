@@ -25,7 +25,7 @@ This project enables building Android applications using a drag-and-drop interfa
 ### Android Code Editor
 
 <a href="https://github.com/Innovative-cst/Android-Code-Editor">
-        <img style="padding:5px;" width="70dp" height="70dp" src="https://images.weserv.nl/?url=https://raw.githubusercontent.com/Innovative-cst/Android-Code-Editor/dev/app/src/main/res/drawable/logo_black.png?v=4&h=250&w=250&fit=cover&mask=circle&maxage=7d"/>
+        <img style="padding:5px;" width="70dp" height="70dp" src="https://images.weserv.nl/?url=https://github.com/Innovative-CST/.github/blob/main/profile/android-code-editor.png?raw=true?v=4&h=250&w=250&fit=cover&mask=circle&maxage=7d"/>
 </a>
 
 “The Android code editor is an open-source project available on Github, developed with the love and contributions of developers. It supports both the Sora code editor and the Ace code editor, making it a versatile tool for writing and editing code on Android devices.”
