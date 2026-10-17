@@ -10,7 +10,7 @@
 Old Name: Android AppStudio
 
 <a href="https://github.com/Innovative-CST/LogicodiumIDE">
-        <img style="padding:5px;" width="70dp" height="70dp" src="https://images.weserv.nl/?url=https://raw.githubusercontent.com/Innovative-cst/.github/main/profile/logicodeumide.png?v=4&h=250&w=250&fit=cover&mask=circle&maxage=7d"/>
+        <img style="padding:5px;" width="70dp" height="70dp" src="https://images.weserv.nl/?url=https://github.com/Innovative-CST/.github/blob/main/profile/logicodeumide.png?raw=true?v=4&h=250&w=250&fit=cover&mask=circle&maxage=7d"/>
 </a>
 
 This project enables building Android applications using a drag-and-drop interface. Currently this app is under development stage.
